@@ -1,7 +1,7 @@
 
-# Flashlight Effect Javascript
+# Number to Roman
 
-![Weight Converter App](https://github.com/andiahmadysx/nomber-to-roman/blob/main/images/screenshot.png?raw=true)
+![Weight Converter App](https://github.com/andiahmadysx/number-to-roman/blob/main/images/screenshot.png?raw=true)
 
 (desc soon, i wanna sleep:))
 
