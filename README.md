@@ -1,7 +1,7 @@
 
 # Number to Roman
 
-![Weight Converter App](https://github.com/andiahmadysx/number-to-roman/blob/main/images/screenshot.png?raw=true)
+![Number to Roman](https://github.com/andiahmadysx/number-to-roman/blob/main/images/screenhot.png?raw=true)
 
 (desc soon, i wanna sleep:))
 
